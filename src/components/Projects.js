@@ -117,7 +117,7 @@ export default function Projects() {
                 rel="
                 noreferrer"
                 className="btn"
-                href="https://vue-weather-app-alpha.vercel.app/"
+                href="https://vue-weather-app-three.vercel.app/"
               >
                 Check it out ...
               </a>
