@@ -235,11 +235,11 @@
     }
   }
   .right {
-    width: 25%;
-    position: absolute;
-    right: 350px;
-
     ul {
+      position: absolute;
+      right: 275px;
+      margin-top: -125px;
+      width: 25%;
       list-style: none;
       display: flex;
       justify-content: space-around;
